@@ -1,0 +1,10 @@
+﻿global using MediatR;
+global using Mapster;
+global using Task4.Dtos;
+global using Carter;
+global using Task4.Models;
+global using Microsoft.EntityFrameworkCore;
+global using Task4.Interfaces;
+global using Core.CQRS;
+global using FluentValidation;
+global using Core.Pagination;
